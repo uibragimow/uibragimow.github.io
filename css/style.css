@@ -1,0 +1,14 @@
+.page-main {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+}
+
+figure {
+    border: solid;
+    border-width: 1px;
+    width: inherit;
+    margin-left: 0;
+    text-align: center;
+}
